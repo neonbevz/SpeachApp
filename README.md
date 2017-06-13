@@ -1,6 +1,4 @@
 # Speach
-###### API Description:
-> https://docs.google.com/document/d/1viJW_5FbCSrLR4rSj9NGKUtWCGoPPFMG1c0j_Pw_bj0
 
 ## What is **Speach**?
 ```
