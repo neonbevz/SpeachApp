@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speach</string>
+    <string name="edit_text">Enter some text</string>
+    <string name="send_btn">Send</string>
+</resources>
