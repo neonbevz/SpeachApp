@@ -1,4 +1,4 @@
-# Speach
+![**Speach**](Graphic/SpeachLogo.jpg)
 
 ## What is **Speach**?
 ```
