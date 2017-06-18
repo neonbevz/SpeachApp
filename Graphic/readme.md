@@ -1,2 +1,3 @@
 **Folder contents:**
-- mock - draw.io diagram with screen layouts
+- mock.xml - draw.io diagram with screen layouts
+- ADT.xml - draw.io diagram for ADT
