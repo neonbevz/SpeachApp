@@ -1,4 +1,4 @@
-![**Speach**](Graphic/SpeachLogo.jpg)
+<img src="Graphic/SpeachLogo.jpg" alt="**Speach**" width="300"/>
 
 ## What is **Speach**?
 ```
